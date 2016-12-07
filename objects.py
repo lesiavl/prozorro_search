@@ -4,7 +4,6 @@
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 import selenium.webdriver.support.ui as ui
-from time import sleep
 import prozorro_locators
 
 prozorro_url = 'https://qa23.prozorro.gov.ua/tender/search/'

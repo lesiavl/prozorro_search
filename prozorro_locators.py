@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+
 tender_id_gl = 'UA-2016-12-06-000286-1'
 
 tender_number_filter = u'//button[text()="№ закупівлі"]'
